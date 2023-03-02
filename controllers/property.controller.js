@@ -1,5 +1,5 @@
-import Property from '../mongodb/models/property';
-import User from '../mongodb/models/user';
+import Property from '../mongodb/models/property.js';
+import User from '../mongodb/models/user.js';
 
 const getAllProperties = async (req, res) => {};
 const getPropertyDetails = async (req, res) => {};
